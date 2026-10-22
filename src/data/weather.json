@@ -1,0 +1,6 @@
+{
+  "London": { "temp": 15, "description": "Cloudy", "icon": "☁", "forecast": [14, 16, 13] },
+  "Paris": { "temp": 18, "description": "Sunny", "icon": "☀", "forecast": [19, 20, 18] },
+  "Tokyo": { "temp": 22, "description": "Rainy", "icon": "🌧", "forecast": [21, 23, 24] },
+  "Toronto": { "temp": 10, "description": "Snowy", "icon": "❄", "forecast": [9, 8, 11] }
+}
